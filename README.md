@@ -48,9 +48,9 @@
             <section>
                 <h3>Cursando o novo ensino medio </h3>
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing
-                    elit, sed do eiusmod tempor incididunt ut labore
-                    et dolore magna aliqua. Ut enim ad minim veniam.
+                    Tenho cursado o novo ensino medio a 2 anos, confeso que no começo foi confuso
+                    porem me adaptei ao novo formato, e hoje em dia  se tornou uma tarefa mais facil
+                                     
             </p>
             </section>
             <section>
